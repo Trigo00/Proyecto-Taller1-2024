@@ -1,0 +1,988 @@
+[
+  {
+    "Datos": {
+      "Nombre": "Goku",
+      "Raza": "Saiyan",
+      "Genero": "Masculino",
+      "Descripcion": "El protagonista de la serie, conocido por su gran poder y personalidad amigable. Originalmente enviado a la Tierra como un infante volador con la misión de conquistarla. Sin embargo, el caer por un barranco le proporcionó un brutal golpe que si bien casi lo mata, este alteró su memoria y anuló todos los instintos violentos de su especie, lo que lo hizo crecer con un corazón puro y bondadoso, pero conservando todos los poderes de su raza. No obstante, en la nueva continuidad de Dragon Ball se establece que él fue enviado por sus padres a la Tierra con el objetivo de sobrevivir a toda costa a la destrucción de su planeta por parte de Freeza. Más tarde, Kakarot, ahora conocido como Son Goku, se convertiría en el príncipe consorte del monte Fry-pan y líder de los Guerreros Z, así como el mayor defensor de la Tierra y del Universo 7, logrando mantenerlos a salvo de la destrucción en innumerables ocasiones, a pesar de no considerarse a sí mismo como un héroe o salvador.",
+      "Ki": "60.000.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 33,
+      "Salud": 100,
+      "Velocidad": 46,
+      "Agilidad": 37,
+      "Resistencia": 51,
+      "Energia": 51
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Vegeta",
+      "Raza": "Saiyan",
+      "Genero": "Masculino",
+      "Descripcion": "Príncipe de los Saiyans, inicialmente un villano, pero luego se une a los Z Fighters. A pesar de que a inicios de Dragon Ball Z, Vegeta cumple un papel antagónico, poco después decide rebelarse ante el Imperio de Freeza, volviéndose un aliado clave para los Guerreros Z. Con el paso del tiempo llegaría a cambiar su manera de ser, optando por permanecer y vivir en la Tierra para luchar a su lado contra las inminentes adversidades que superar. Junto con Piccolo, él es de los antiguos enemigos de Goku que ha evolucionando al pasar de ser un villano y antihéroe, a finalmente un héroe a lo largo del transcurso de la historia, convirtiéndose así en el deuteragonista de la serie.",
+      "Ki": "54.000.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 31,
+      "Salud": 100,
+      "Velocidad": 38,
+      "Agilidad": 55,
+      "Resistencia": 70,
+      "Energia": 67
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Piccolo",
+      "Raza": "Namekian",
+      "Genero": "Masculino",
+      "Descripcion": "Es un namekiano que surgió tras ser creado en los últimos momentos de vida de su padre, siendo su actual reencarnación. Aunque en un principio fue el archienemigo de Son Goku, con el paso del tiempo fue haciéndose menos malvado hasta finalmente convertirse en un ser bondadoso y miembro de los Guerreros Z. A través del tiempo, también comenzó a tomarle cariño a su discípulo Son Gohan, a quien veía como una especie de \"vástago\" y formando un lazo de amistad con este.",
+      "Ki": "2.000.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 58,
+      "Salud": 100,
+      "Velocidad": 27,
+      "Agilidad": 52,
+      "Resistencia": 70,
+      "Energia": 42
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Bulma",
+      "Raza": "Human",
+      "Genero": "Femenino",
+      "Descripcion": "Bulma es la protagonista femenina de la serie manga Dragon Ball y sus adaptaciones al anime Dragon Ball, Dragon Ball Z, Dragon Ball Super y Dragon Ball GT. Es hija del Dr. Brief y su esposa Panchy, hermana menor de Tights y una gran amiga de Son Goku con quien inicia la búsqueda de las Esferas del Dragón. En Dragon Ball Z tuvo a Trunks, primogénito de quien sería su esposo Vegeta, a su hija Bra[3] y su hijo adulto del tiempo alterno Trunks del Futuro Alternativo.",
+      "Ki": "0"
+    },
+    "Caracteristicas": {
+      "Fuerza": 48,
+      "Salud": 100,
+      "Velocidad": 23,
+      "Agilidad": 38,
+      "Resistencia": 29,
+      "Energia": 48
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Freezer",
+      "Raza": "Frieza Race",
+      "Genero": "Masculino",
+      "Descripcion": "Freezer es el tirano espacial y el principal antagonista de la saga de Freezer.",
+      "Ki": "530.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 62,
+      "Salud": 100,
+      "Velocidad": 52,
+      "Agilidad": 70,
+      "Resistencia": 70,
+      "Energia": 48
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Zarbon",
+      "Raza": "Frieza Race",
+      "Genero": "Masculino",
+      "Descripcion": "Zarbon es uno de los secuaces de Freezer y un luchador poderoso.",
+      "Ki": "20.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 37,
+      "Salud": 100,
+      "Velocidad": 68,
+      "Agilidad": 68,
+      "Resistencia": 44,
+      "Energia": 41
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Dodoria",
+      "Raza": "Frieza Race",
+      "Genero": "Masculino",
+      "Descripcion": "Dodoria es otro secuaz de Freezer conocido por su brutalidad.",
+      "Ki": "18.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 62,
+      "Salud": 100,
+      "Velocidad": 60,
+      "Agilidad": 44,
+      "Resistencia": 64,
+      "Energia": 38
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Ginyu",
+      "Raza": "Frieza Race",
+      "Genero": "Masculino",
+      "Descripcion": "Ginyu es el líder del la élite de mercenarios de mayor prestigio del Ejército de Freeza, la cual lleva el nombre de Fuerzas Especiales Ginew en su honor[9].",
+      "Ki": "9.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 44,
+      "Salud": 100,
+      "Velocidad": 61,
+      "Agilidad": 58,
+      "Resistencia": 57,
+      "Energia": 56
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Celula",
+      "Raza": "Android",
+      "Genero": "Masculino",
+      "Descripcion": "Cell conocido como Célula en España, es un bioandroide creado por la computadora del Dr. Gero, quien vino del futuro de la línea 3 con la intención de vengarse de Goku por haber acabado con el Ejército del Listón Rojo, y con ello el sueño de todo villano: dominar el mundo. Es el antagonista principal del Arco de los Androides y Cell.",
+      "Ki": "250.000.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 61,
+      "Salud": 100,
+      "Velocidad": 52,
+      "Agilidad": 30,
+      "Resistencia": 23,
+      "Energia": 68
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Gohan",
+      "Raza": "Saiyan",
+      "Genero": "Masculino",
+      "Descripcion": "Son Gohanda en su tiempo en España, o simplemente Gohan en Hispanoamérica, es uno de los personajes principales de los arcos argumentales de Dragon Ball Z, Dragon Ball Super y Dragon Ball GT. Es un mestizo entre saiyano y humano terrícola. Es el primer hijo de Son Goku y Chi-Chi, hermano mayor de Son Goten, esposo de Videl y padre de Pan.",
+      "Ki": "45.000.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 31,
+      "Salud": 100,
+      "Velocidad": 37,
+      "Agilidad": 54,
+      "Resistencia": 55,
+      "Energia": 51
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Krillin",
+      "Raza": "Human",
+      "Genero": "Masculino",
+      "Descripcion": "Amigo cercano de Goku y guerrero valiente, es un personaje del manga y anime de Dragon Ball. Es uno de los principales discípulos de Kame-Sen'nin, Guerrero Z, y el mejor amigo de Son Goku. Es junto a Bulma uno de los personajes de apoyo principales de Dragon Ball, Dragon Ball Z y Dragon Ball Super. Aparece en Dragon Ball GT como personaje secundario. En el Arco de Majin Boo, se retira de las artes marciales, optando por formar una familia, como el esposo de la Androide Número 18 y el padre de Marron.",
+      "Ki": "1.000.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 54,
+      "Salud": 100,
+      "Velocidad": 32,
+      "Agilidad": 21,
+      "Resistencia": 29,
+      "Energia": 22
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Tenshinhan",
+      "Raza": "Human",
+      "Genero": "Masculino",
+      "Descripcion": "Maestro de las artes marciales y miembro de los Z Fighters.  Es un personaje que aparece en el manga y en el anime de Dragon Ball, Dragon Ball Z, Dragon Ball GT y posteriormente en Dragon Ball Super.",
+      "Ki": "2.400.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 44,
+      "Salud": 100,
+      "Velocidad": 41,
+      "Agilidad": 47,
+      "Resistencia": 36,
+      "Energia": 38
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Yamcha",
+      "Raza": "Human",
+      "Genero": "Masculino",
+      "Descripcion": "Luchador que solía ser un bandido del desierto.",
+      "Ki": "1.980.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 25,
+      "Salud": 100,
+      "Velocidad": 49,
+      "Agilidad": 60,
+      "Resistencia": 45,
+      "Energia": 32
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Chi-Chi",
+      "Raza": "Human",
+      "Genero": "Femenino",
+      "Descripcion": "Esposa de Goku y madre de Gohan. Es la princesa del Monte Fry-pan siendo la hija de la fallecida reina de esta montaña y el Rey Gyuma, ella terminaría conociendo a Son Goku cuando era tan solo una niña para años más tarde durante su adolescencia ser su esposa y convertirse en la estricta pero amorosa madre de Gohan y Goten.",
+      "Ki": "0"
+    },
+    "Caracteristicas": {
+      "Fuerza": 30,
+      "Salud": 100,
+      "Velocidad": 67,
+      "Agilidad": 52,
+      "Resistencia": 44,
+      "Energia": 64
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Gotenks",
+      "Raza": "Saiyan",
+      "Genero": "Masculino",
+      "Descripcion": " Gotenks también conocido inicialmente como Gotrunk en el doblaje al español de España, es el resultado de la Danza de la Fusión llevada a cabo correctamente por Goten y Trunks.",
+      "Ki": "65.600.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 32,
+      "Salud": 100,
+      "Velocidad": 37,
+      "Agilidad": 27,
+      "Resistencia": 41,
+      "Energia": 40
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Trunks",
+      "Raza": "Saiyan",
+      "Genero": "Masculino",
+      "Descripcion": "Hijo de Vegeta y Bulma. Es un mestizo entre humano terrícola y Saiyano nacido en la Tierra, e hijo de Bulma y Vegeta, el cual es introducido en el Arco de los Androides y Cell. Más tarde en su vida como joven, se termina convirtiendo en un luchador de artes marciales, el mejor amigo de Son Goten y en el hermano mayor de su hermana Bra.",
+      "Ki": "50.000.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 43,
+      "Salud": 100,
+      "Velocidad": 31,
+      "Agilidad": 51,
+      "Resistencia": 51,
+      "Energia": 59
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Master Roshi",
+      "Raza": "Human",
+      "Genero": "Masculino",
+      "Descripcion": "Maestro de artes marciales y mentor de Goku. Conocido bajo el nombre de Muten Rosh, fue en su momento el terrícola más fuerte de la Tierra, y mucha gente lo recuerda como el \"Dios de las Artes Marciales\", pero antes de poder ostentar dicho título tuvo que trabajar y estudiar las artes marciales con su maestro Mutaito y su eterno rival Tsuru-Sen'nin.",
+      "Ki": "500.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 38,
+      "Salud": 100,
+      "Velocidad": 25,
+      "Agilidad": 24,
+      "Resistencia": 42,
+      "Energia": 43
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Bardock",
+      "Raza": "Saiyan",
+      "Genero": "Masculino",
+      "Descripcion": "Es un saiyano de clase baja proveniente del Planeta Vegeta del Universo 7. Pertenece al Ejército Saiyano, que está bajo el liderazgo del Rey Vegeta, y es jefe de su escuadrón durante la anexión del planeta por parte de las fuerzas coloniales del Imperio de Freeza. Él es el esposo de Gine y padre biológico de Kakarotto y Raditz.",
+      "Ki": "450.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 34,
+      "Salud": 100,
+      "Velocidad": 26,
+      "Agilidad": 53,
+      "Resistencia": 39,
+      "Energia": 61
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Launch",
+      "Raza": "Human",
+      "Genero": "Femenino",
+      "Descripcion": "Personaje que sufre cambios de personalidad al estornudar. Es uno de los personajes principales del manga Dragon Ball y su anime homónimo; Lunch es una chica que sufre de un trastorno de personalidad doble que a raíz de sus reacciones alérgicas provoca que ella cambie entre dos personalidades diferentes, ninguna de las personalidades recuerda lo que la otra hizo o dijo.",
+      "Ki": "0"
+    },
+    "Caracteristicas": {
+      "Fuerza": 43,
+      "Salud": 100,
+      "Velocidad": 40,
+      "Agilidad": 24,
+      "Resistencia": 66,
+      "Energia": 31
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Mr. Satan",
+      "Raza": "Human",
+      "Genero": "Masculino",
+      "Descripcion": "Luchador humano famoso por llevarse el mérito de las victorias de los Guerreros Z.",
+      "Ki": "450"
+    },
+    "Caracteristicas": {
+      "Fuerza": 34,
+      "Salud": 100,
+      "Velocidad": 53,
+      "Agilidad": 21,
+      "Resistencia": 34,
+      "Energia": 51
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Dende",
+      "Raza": "Namekian",
+      "Genero": "Masculino",
+      "Descripcion": "Sucesor de Piccolo como el nuevo Namekian protector de la Tierra. Es un pequeño namekiano, que vivía en el poblado de Moori, junto a su hermano Scargo y otros tantos de su especie. Es el hijo 108 del Gran Patriarca y posteriormente Dios de la Tierra, sustituyendo a Dios.",
+      "Ki": "3.200"
+    },
+    "Caracteristicas": {
+      "Fuerza": 61,
+      "Salud": 100,
+      "Velocidad": 31,
+      "Agilidad": 38,
+      "Resistencia": 45,
+      "Energia": 57
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Android 17",
+      "Raza": "Android",
+      "Genero": "Masculino",
+      "Descripcion": "Antes de ser secuestrado, es el hermano mellizo de la Androide Número 18, quien al igual que ella antes de ser Androide era un humano normal hasta que fueron secuestrados por el Dr. Gero, y es por eso que lo odian. Tras su cambio de humano a Androide, le insertaron un chip con el objetivo de destruir a Son Goku, quien en su juventud extermino al Ejército del Listón Rojo. Al considerarse defectuoso porque no quería ser 'esclavo de nadie', el Dr. Gero les había colocado a ambos hermanos, un dispositivo de apagado para detenerlos en cualquier momento de desobediencia, pero cuando el científico los despierta, el rencor y rebeldía de 17 eran tal que se encargó de destruir el control que lo volvería a encerrar y acto seguido mató sin piedad a su propio creador. Su situación se le iría en contra, ya que Cell tenía como misión absorber a 17 y 18 para completar su desarrollo y convertirse en Cell Perfecto.",
+      "Ki": "320.000.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 52,
+      "Salud": 100,
+      "Velocidad": 38,
+      "Agilidad": 40,
+      "Resistencia": 68,
+      "Energia": 31
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Android 16",
+      "Raza": "Android",
+      "Genero": "Masculino",
+      "Descripcion": "Android 16 es un androide gigante conocido por su amor a la naturaleza y la vida.",
+      "Ki": "440.000.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 67,
+      "Salud": 100,
+      "Velocidad": 28,
+      "Agilidad": 50,
+      "Resistencia": 59,
+      "Energia": 28
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Android 19",
+      "Raza": "Android",
+      "Genero": "Masculino",
+      "Descripcion": "Android 19 es uno de los androides creados por el Dr. Gero.",
+      "Ki": "122.000.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 53,
+      "Salud": 100,
+      "Velocidad": 59,
+      "Agilidad": 62,
+      "Resistencia": 34,
+      "Energia": 22
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Android 20 (Dr. Gero)",
+      "Raza": "Android",
+      "Genero": "Masculino",
+      "Descripcion": "Dr. Gero es el científico loco que creó a los androides 17, 18 y 19.",
+      "Ki": "128.000.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 53,
+      "Salud": 100,
+      "Velocidad": 41,
+      "Agilidad": 50,
+      "Resistencia": 20,
+      "Energia": 62
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Android 13",
+      "Raza": "Android",
+      "Genero": "Masculino",
+      "Descripcion": "Android 13 es un androide peligroso que aparece en la película \"El Regreso de Cooler\".",
+      "Ki": "195.000.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 70,
+      "Salud": 100,
+      "Velocidad": 64,
+      "Agilidad": 23,
+      "Resistencia": 24,
+      "Energia": 26
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Android 14",
+      "Raza": "Android",
+      "Genero": "Masculino",
+      "Descripcion": "Android 14 es otro androide que aparece en la misma película que Android 13.",
+      "Ki": "192.500.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 35,
+      "Salud": 100,
+      "Velocidad": 68,
+      "Agilidad": 62,
+      "Resistencia": 60,
+      "Energia": 28
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Android 15",
+      "Raza": "Android",
+      "Genero": "Masculino",
+      "Descripcion": "Android 15 es otro androide que aparece en la misma película que Android 13.",
+      "Ki": "175.000.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 25,
+      "Salud": 100,
+      "Velocidad": 48,
+      "Agilidad": 27,
+      "Resistencia": 64,
+      "Energia": 60
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Nail",
+      "Raza": "Namekian",
+      "Genero": "Masculino",
+      "Descripcion": "Es un Namekiano (habitante del planeta Namek), que se caracteriza por formar parte de los escasos miembros de la \"estirpe guerrera\", y ser el más poderoso entre ellos junto a Piccolo.",
+      "Ki": "42.000 "
+    },
+    "Caracteristicas": {
+      "Fuerza": 56,
+      "Salud": 100,
+      "Velocidad": 34,
+      "Agilidad": 58,
+      "Resistencia": 50,
+      "Energia": 38
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Raditz",
+      "Raza": "Saiyan",
+      "Genero": "Masculino",
+      "Descripcion": "Es el hijo de Bardock y Gine, y hermano mayor de Son Goku. Él es uno de los pocos saiyanos que sobrevivieron a la destrucción del Planeta Vegeta, y formaba parte del equipo de Vegeta. Es el primer antagonista de Dragon Ball Z.",
+      "Ki": "1.500 "
+    },
+    "Caracteristicas": {
+      "Fuerza": 45,
+      "Salud": 100,
+      "Velocidad": 43,
+      "Agilidad": 50,
+      "Resistencia": 64,
+      "Energia": 48
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Babidi",
+      "Raza": "Majin",
+      "Genero": "Masculino",
+      "Descripcion": "Conocido también como Bóbidi o Bábidi, es un poderoso hechicero madoshi, \"hijo\" del gran mago Bibbidi, fundador de la familia Majin. La \"M\" que llevan ambos en el cinturón de sus atuendos al igual que la frente de aquellos que han sido poseídos para formar parte de la familia Majin.",
+      "Ki": "0"
+    },
+    "Caracteristicas": {
+      "Fuerza": 66,
+      "Salud": 100,
+      "Velocidad": 36,
+      "Agilidad": 41,
+      "Resistencia": 56,
+      "Energia": 24
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Majin Buu",
+      "Raza": "Majin",
+      "Genero": "Masculino",
+      "Descripcion": "También conocido como Boo original, es la forma original y pura de Majin-Boo, y la última forma de Boo que aparece en Dragon Ball Z.",
+      "Ki": "8 Billion"
+    },
+    "Caracteristicas": {
+      "Fuerza": 44,
+      "Salud": 100,
+      "Velocidad": 56,
+      "Agilidad": 64,
+      "Resistencia": 26,
+      "Energia": 56
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Bills",
+      "Raza": "God",
+      "Genero": "Masculino",
+      "Descripcion": "Dios de la Destrucción Beerus, conocido también como Beers, o Bills en Hispanoamérica e inicialmente en España[1], es un personaje que fue introducido en la película Dragon Ball Z: La batalla de los dioses, donde es el antagonista principal de la película, y que aparece en el manga y anime de Dragon Ball Super como un personaje principal. Ocupa el puesto de Dios de la Destrucción de todo el Universo 7 siendo el lugar donde se desarrolla la historia de Dragon Ball.",
+      "Ki": "102 Billion"
+    },
+    "Caracteristicas": {
+      "Fuerza": 68,
+      "Salud": 100,
+      "Velocidad": 40,
+      "Agilidad": 53,
+      "Resistencia": 65,
+      "Energia": 61
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Whis",
+      "Raza": "Angel",
+      "Genero": "Masculino",
+      "Descripcion": "Whis es uno de los hijos del Gran Sacerdote, hermano menor de Vados, Korn y Kus. Es el ángel guía encargado de asistir y servir como maestro al Dios de la Destrucción del Universo 7, Beerus.",
+      "Ki": "15 septillion"
+    },
+    "Caracteristicas": {
+      "Fuerza": 68,
+      "Salud": 100,
+      "Velocidad": 38,
+      "Agilidad": 63,
+      "Resistencia": 24,
+      "Energia": 55
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Zeno",
+      "Raza": "Unknown",
+      "Genero": "Masculino",
+      "Descripcion": "Zeno es el ser supremo del multiverso y tiene un poder abrumador .El Rey de Todo, también conocido como Zen Oo (Zeno Sama en España y Zen Oo Sama en Hispanoamerica) y apodado por Son Goku como Todito (全ぜんちゃん, Zen-chan), es el gobernante y dios absoluto de todos los universos y el máximo soberano de todo lo existente en Dragon Ball.",
+      "Ki": "500 Septillion"
+    },
+    "Caracteristicas": {
+      "Fuerza": 69,
+      "Salud": 100,
+      "Velocidad": 26,
+      "Agilidad": 64,
+      "Resistencia": 28,
+      "Energia": 22
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Kibito-Shin",
+      "Raza": "God",
+      "Genero": "Masculino",
+      "Descripcion": "es la fusión entre Shin y Kibito. Ellos fueron unidos permanentemente mediante el uso de los míticos pendientes Pothala. Está actualmente separado gracias a un deseo concedido por las Esferas del Dragón namekianas.",
+      "Ki": "3.2 Billion"
+    },
+    "Caracteristicas": {
+      "Fuerza": 25,
+      "Salud": 100,
+      "Velocidad": 32,
+      "Agilidad": 30,
+      "Resistencia": 54,
+      "Energia": 53
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Jiren",
+      "Raza": "Jiren Race",
+      "Genero": "Masculino",
+      "Descripcion": "Jiren es un poderoso luchador del Universo 11 y uno de los oponentes más formidables en el torneo.",
+      "Ki": "121 Quintillion"
+    },
+    "Caracteristicas": {
+      "Fuerza": 68,
+      "Salud": 100,
+      "Velocidad": 62,
+      "Agilidad": 43,
+      "Resistencia": 63,
+      "Energia": 58
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Toppo",
+      "Raza": "God",
+      "Genero": "Masculino",
+      "Descripcion": "Toppo es el líder de las Tropas del Orgullo, guerreros de la justicia del Universo 11 que actúan como protectores de la paz y superhéroes del bien. Él ha sido entrenado por el ángel guía Marcarita, convirtiéndose así en un candidato como futuro Dios de la Destrucción en su universo.",
+      "Ki": "99 Quadrillion"
+    },
+    "Caracteristicas": {
+      "Fuerza": 22,
+      "Salud": 100,
+      "Velocidad": 50,
+      "Agilidad": 62,
+      "Resistencia": 64,
+      "Energia": 34
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Dyspo",
+      "Raza": "God",
+      "Genero": "Masculino",
+      "Descripcion": "Dyspo es uno de los miembros del Equipo Universo 11 como uno de los soldados más poderosos de las Tropas del Orgullo junto con Jiren y su líder Toppo.",
+      "Ki": "50 Trillion"
+    },
+    "Caracteristicas": {
+      "Fuerza": 70,
+      "Salud": 100,
+      "Velocidad": 59,
+      "Agilidad": 32,
+      "Resistencia": 58,
+      "Energia": 21
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Marcarita ",
+      "Raza": "Angel",
+      "Genero": "Femenino",
+      "Descripcion": "Marcarita es el ángel guía del Universo 11, sirviente y maestra de artes marciales del Dios de la Destrucción Vermoud. Es un personaje de la Arco de la Supervivencia Universal de Dragon Ball Super.",
+      "Ki": "10 septillion"
+    },
+    "Caracteristicas": {
+      "Fuerza": 55,
+      "Salud": 100,
+      "Velocidad": 30,
+      "Agilidad": 57,
+      "Resistencia": 55,
+      "Energia": 57
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Vermoudh",
+      "Raza": "God",
+      "Genero": "Masculino",
+      "Descripcion": "Es el individuo que actualmente ostenta el cargo de Dios de la Destrucción en el Universo 11, puesto que obtuvo tras abandonar su membresía como Soldado del Orgullo dentro de las Tropas del Orgullo.",
+      "Ki": "9.9 Septillion"
+    },
+    "Caracteristicas": {
+      "Fuerza": 28,
+      "Salud": 100,
+      "Velocidad": 37,
+      "Agilidad": 44,
+      "Resistencia": 42,
+      "Energia": 29
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Grand Priest ",
+      "Raza": "Angel",
+      "Genero": "Masculino",
+      "Descripcion": "El Gran Sacerdote es el supervisor del torneo y uno de los seres más poderosos. Gran Ministro de los Omni-Reyes , es un ángel que actúa como asesor cercano y figura guía de Zenón y del Futuro Zenón . De vez en cuando hace cumplir los Decretos Divinos de los Zenos y da la bienvenida a los invitados a su palacio . El Gran Ministro es también padre de trece Ángeles, de los cuales doce sirven a los Dioses de la Destrucción . Por su posición y poder, es quizás el segundo ser más fuerte del Multiverso .",
+      "Ki": "969 Googolplex"
+    },
+    "Caracteristicas": {
+      "Fuerza": 38,
+      "Salud": 100,
+      "Velocidad": 34,
+      "Agilidad": 32,
+      "Resistencia": 51,
+      "Energia": 49
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Kaio del norte (Kaito)",
+      "Raza": "Nucleico benigno",
+      "Genero": "Masculino",
+      "Descripcion": "Se trata del dios encargado de administrar las Galaxias del Norte, el cuadrante boreal del Universo 7 y supervisar a los dioses de los planetas de dicho sector (como es el caso de Kami en la Tierra)",
+      "Ki": "6.000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 21,
+      "Salud": 100,
+      "Velocidad": 24,
+      "Agilidad": 52,
+      "Resistencia": 55,
+      "Energia": 65
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Android 18",
+      "Raza": "Android",
+      "Genero": "Femenino",
+      "Descripcion": "Es la hermana melliza del Androide Número 17 y una \"androide\" creada a partir de una base humana por el Dr. Gero con el único fin de destruir a Goku.",
+      "Ki": "280,000,000"
+    },
+    "Caracteristicas": {
+      "Fuerza": 62,
+      "Salud": 100,
+      "Velocidad": 43,
+      "Agilidad": 66,
+      "Resistencia": 49,
+      "Energia": 48
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Gogeta",
+      "Raza": "Saiyan",
+      "Genero": "Masculino",
+      "Descripcion": "Gogeta es la fusión resultante de Son Goku y Vegeta, cuando realizan la Danza de la Fusión correctamente para enfrentarse a Broly. Su voz es una voz dual que contiene las voces de Goku y Vegeta. Junto con el poder todopoderoso de los dos, con la astucia y perspicacia de Vegeta, y la habilidad pródiga de las artes marciales de Goku, es uno de los guerreros más temibles para desafiar a una pelea.",
+      "Ki": "250 Billion"
+    },
+    "Caracteristicas": {
+      "Fuerza": 53,
+      "Salud": 100,
+      "Velocidad": 36,
+      "Agilidad": 42,
+      "Resistencia": 20,
+      "Energia": 61
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Vegetto",
+      "Raza": "Saiyan",
+      "Genero": "Masculino",
+      "Descripcion": "Vegetto es el personaje más fuerte dentro del manga original y uno de los personajes más poderosos de toda la serie en general. Su poder es el resultado del máximo poder combinado de Goku y Vegeta, multiplicado varias veces su fuerza, siendo una de las fusiones más poderosas dentro de la franquicia.",
+      "Ki": "180 Billion"
+    },
+    "Caracteristicas": {
+      "Fuerza": 47,
+      "Salud": 100,
+      "Velocidad": 24,
+      "Agilidad": 25,
+      "Resistencia": 65,
+      "Energia": 53
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Janemba",
+      "Raza": "Evil",
+      "Genero": "Masculino",
+      "Descripcion": "Janemba es un demonio de pura maldad y gran poder maligno. Creado a partir de las acciones de un adolescente ogro llamado Psyche Oni, quien era el responsable de vigilar la máquina purificadora de almas, la cual explota como consecuencia de la falta de cuidado del ogro, las almas malignas terminan por usar como huésped su cuerpo, creando así a este demonio.",
+      "Ki": "15 Billion"
+    },
+    "Caracteristicas": {
+      "Fuerza": 37,
+      "Salud": 100,
+      "Velocidad": 45,
+      "Agilidad": 40,
+      "Resistencia": 39,
+      "Energia": 23
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Broly",
+      "Raza": "Saiyan",
+      "Genero": "Masculino",
+      "Descripcion": "Broly es un Saiyajin que posee un poder gigantesco e incontrolable, el cual se manifiesta en toda su magnitud cuando se convierte en el Super Saiyajin Legendario. Incluso cuando apenas era un bebé su nivel de poder alcanzaba cifras inmensas que provocaban asombro y preocupación entre los de su raza",
+      "Ki": "7 quadrillion"
+    },
+    "Caracteristicas": {
+      "Fuerza": 22,
+      "Salud": 100,
+      "Velocidad": 20,
+      "Agilidad": 56,
+      "Resistencia": 51,
+      "Energia": 68
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Kaio del Sur",
+      "Raza": "Nucleico benigno",
+      "Genero": "Masculino",
+      "Descripcion": "El Kaio del Sur es la única referencia que tenemos de los otros dioses Kaiō en el manga, más allá del Kaiō Sama Norte ya que es el único Kaiō, junto con el Kaiō del Norte, en aparecer en el manga, y uno de los cuatro que aparecen en el anime, junto al Gran Kaio.",
+      "Ki": "Desconocido"
+    },
+    "Caracteristicas": {
+      "Fuerza": 34,
+      "Salud": 100,
+      "Velocidad": 62,
+      "Agilidad": 38,
+      "Resistencia": 41,
+      "Energia": 43
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Kaio del este",
+      "Raza": "Nucleico benigno",
+      "Genero": "Femenino",
+      "Descripcion": "La Kaiō del Este es una Kaio que solo aparece en el anime. Le gustan los retos y de entrenar duramente a sus discípulos, que destacan por ser guerreros muy veloces, siendo el ejemplo más claro Chapuchai.",
+      "Ki": "Desconocido"
+    },
+    "Caracteristicas": {
+      "Fuerza": 62,
+      "Salud": 100,
+      "Velocidad": 35,
+      "Agilidad": 23,
+      "Resistencia": 53,
+      "Energia": 24
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Kaio del Oeste",
+      "Raza": "Nucleico benigno",
+      "Genero": "Masculino",
+      "Descripcion": "El Kaiō del Oeste es el rival del Kaio del Norte. Y como dice su nombre, el controla la galaxia del Oeste.",
+      "Ki": "Desconocido"
+    },
+    "Caracteristicas": {
+      "Fuerza": 70,
+      "Salud": 100,
+      "Velocidad": 37,
+      "Agilidad": 62,
+      "Resistencia": 36,
+      "Energia": 38
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Gran Kaio",
+      "Raza": "Nucleico benigno",
+      "Genero": "Masculino",
+      "Descripcion": "Gran Kaio es el Kaio de mayor importancia del Otro Mundo y es el Dios que se encarga de administrar a los demás Kaiō para que se ocupen de cuyos sectores de la Galaxia. Su apariencia es la de un anciano con una barba larga y muy canosa, remarcada por unas gafas oscuras que nunca se quita en la serie. Cuenta con su propio planeta, el Planeta del Gran Kaio, en el cual la gravedad es 10 veces mayor a la del planeta Tierra.",
+      "Ki": "Desconocido"
+    },
+    "Caracteristicas": {
+      "Fuerza": 61,
+      "Salud": 100,
+      "Velocidad": 43,
+      "Agilidad": 69,
+      "Resistencia": 38,
+      "Energia": 42
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Kaio-shin del Este",
+      "Raza": "Nucleico",
+      "Genero": "Masculino",
+      "Descripcion": "Es uno de los Kaio-shin, los dioses de la creación que se encargan de crear vida en todo el Universo 7 y protegerlo de amenazas supremas.\nAnteriormente solía hacerse cargo de proteger la zona este del universo, ya que después de la muerte de los otros Kaio-shin a manos de Majin-Boo, se convirtió en el Kaio-shin principal del Universo 7.",
+      "Ki": "Desconocido"
+    },
+    "Caracteristicas": {
+      "Fuerza": 25,
+      "Salud": 100,
+      "Velocidad": 26,
+      "Agilidad": 38,
+      "Resistencia": 22,
+      "Energia": 22
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Kaio-shin del Norte",
+      "Raza": "Nucleico",
+      "Genero": "Masculino",
+      "Descripcion": "El Kaiō-shin del Norte es otro de los Kaiō-shin que vivió junto a el resto de los Kaio-shin y Dai Kaio-shin hace 5 millones de años, y que luchó contra Majin Boo.",
+      "Ki": "Desconocido"
+    },
+    "Caracteristicas": {
+      "Fuerza": 41,
+      "Salud": 100,
+      "Velocidad": 25,
+      "Agilidad": 61,
+      "Resistencia": 20,
+      "Energia": 39
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Kaio-shin del Sur",
+      "Raza": "Nucleico",
+      "Genero": "Masculino",
+      "Descripcion": "El Kaio-shin del Sur fue el gobernante del cuadrante sur del universo y era el más poderoso entre los Kaio-shin.",
+      "Ki": "Desconocido"
+    },
+    "Caracteristicas": {
+      "Fuerza": 39,
+      "Salud": 100,
+      "Velocidad": 33,
+      "Agilidad": 45,
+      "Resistencia": 48,
+      "Energia": 37
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Kaio-shin del Oeste",
+      "Raza": "Nucleico benigno",
+      "Genero": "Femenino",
+      "Descripcion": "La Kaiō-shin del Oeste es una Kaio-shin, que vivió junto a sus compañeros, fue la primera en morir en la terrible batalla librada contra Majin Boo hace 5 millones de años.",
+      "Ki": "Desconocido"
+    },
+    "Caracteristicas": {
+      "Fuerza": 68,
+      "Salud": 100,
+      "Velocidad": 68,
+      "Agilidad": 52,
+      "Resistencia": 42,
+      "Energia": 64
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Gran Kaio-shin",
+      "Raza": "Nucleico benigno",
+      "Genero": "Masculino",
+      "Descripcion": "El Gran Kaio-shin, conocido también como Sagrado Kaiosama en Hispanoamérica, era el Kaio-shin principal del Universo 7 y supervisor de los otros Kaio-shin del mismo universo.\nTras ser absorbido por Majin Boo, el Gran Kaio-shin del Universo 7 se convirtió en la faceta más dominante en Boo Gordo, aún viviendo actualmente dentro de su cuerpo a través de su espíritu.",
+      "Ki": "Desconocido"
+    },
+    "Caracteristicas": {
+      "Fuerza": 31,
+      "Salud": 100,
+      "Velocidad": 52,
+      "Agilidad": 47,
+      "Resistencia": 51,
+      "Energia": 36
+    }
+  },
+  {
+    "Datos": {
+      "Nombre": "Kibito",
+      "Raza": "Nucleico",
+      "Genero": "Masculino",
+      "Descripcion": "Kibito es el ayudante y guardaespaldas del Kaio-shin del Este. Es un experto combatiente y con ciertos poderes curativos y mágicos como corresponde a su función. Su técnica más conocida es el Kai-Kai.",
+      "Ki": "Desconocido"
+    },
+    "Caracteristicas": {
+      "Fuerza": 33,
+      "Salud": 100,
+      "Velocidad": 67,
+      "Agilidad": 33,
+      "Resistencia": 48,
+      "Energia": 62
+    }
+  }
+]
